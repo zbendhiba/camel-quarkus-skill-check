@@ -2,3 +2,4 @@ target/
 .claude/
 .docker/
 .DS_Store
+*.mov
