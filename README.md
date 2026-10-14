@@ -3,6 +3,11 @@
 A minimal Quarkus app to test the AI agent support coming to Apache Camel Quarkus
 ([apache/camel-quarkus#8706](https://github.com/apache/camel-quarkus/issues/8706)).
 
+## Demo
+
+🎥 Watch the full test session:
+[CamelQuarkus-skills-agent-mcp-Final.mov](CamelQuarkus-skills-agent-mcp-Final.mov)
+
 ## What it tests
 
 Two things, end to end:
